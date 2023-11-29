@@ -1,0 +1,1 @@
+masscan -c scan_config.conf 
